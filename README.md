@@ -1,0 +1,1 @@
+HI, my name is William Weirich Tomé. Actually working in GroupIt company, a startup that developed projects to many types of business. Our solutions are building with a programming language PHP and Laravel Framework and Javascript and VueJS.
