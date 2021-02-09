@@ -16,6 +16,8 @@
 * Bootstrap
 * Git
 * Node.js
+* Reactjs
+* Vuejs
 * React
 * Nextjs
 * TailwindCSS
