@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning **Laravel, Javascript, React and Next framework.**
 - 📫 How to reach me **william.tomenh@gmail.com**
 
-## Tech Skills
+### Tech Skills
 
 * PHP
 * Laravel
@@ -22,7 +22,16 @@
 * Nextjs
 * TailwindCSS
 
-## Projects
+### ✔️ I'm currently learning
+- JavaScript
+- ReactJS
+
+### 👩‍💻 I'm working on
+- Building projects.
+<br>
+<br>
+
+### Projects
 
 * Palpitebox - Techs: React, Node, NextJs, TailwindCss and Google Sheets. 
 [Repo](https://github.com/williamtome/palpitebox)
@@ -30,7 +39,7 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=williamtome&hide=issues&theme=light&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&line_height=20.5)
 
-## Follow me
+### Follow me
 
 [![Linkedin: Willia Weirich Tomé](https://img.shields.io/badge/-williamtome-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/williamtome/)](https://www.linkedin.com/in/williamtome/)
 
