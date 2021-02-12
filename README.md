@@ -7,20 +7,7 @@
 
 ### Tech Skills
 
-* PHP
-* Laravel
-* Javascript
-* MySQL
-* HTML
-* CSS
-* Bootstrap
-* Git
-* Node.js
-* Reactjs
-* Vuejs
-* React
-* Nextjs
-* TailwindCSS
+* PHP / Laravel / Javascript / MySQL / HTML / CSS / Bootstrap / Git / Node.js / Reactjs / Vuejs / Nextjs / TailwindCSS
 
 ### ✔️ I'm currently learning
 - JavaScript
@@ -33,9 +20,8 @@
 
 ### Projects
 
-* Palpitebox - Techs: React, Node, NextJs, TailwindCss and Google Sheets. 
-[Repo](https://github.com/williamtome/palpitebox)
-[Project in production](https://palpitebox.williamtome.dev/)
+[Palpitebox](https://palpitebox.williamtome.dev/) - [Repo](https://github.com/williamtome/palpitebox)
+* Stack: React, Node, NextJs, TailwindCss and Google Sheets. 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=williamtome&hide=issues&theme=light&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&line_height=20.5)
 
