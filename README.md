@@ -26,7 +26,7 @@
 * Stack: React, Node, NextJs, TailwindCss and Fauna DB (Database as a Service). 
 
 [ConvertMyMoney](https://convertmymoney.williamtome.dev/) - [Repo](https://github.com/williamtome/convertmymoney)
-* Stack: Node.js, HTML, EJS, Flexbox CSS, integration with Banco Central do Brasil API.
+* Stack: Node.js, Jest, HTML, EJS, Flexbox CSS, integration with Banco Central do Brasil API.
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=williamtome&hide=issues&theme=light&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&line_height=20.5)
 
