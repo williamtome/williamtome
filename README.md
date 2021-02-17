@@ -19,8 +19,11 @@
 
 ### Projects
 
+[AluraQuiz](https://quiz.williamtome.dev/) - [Repo](https://github.com/williamtome/alura-quiz-imersao-react)
+* Stack: Nodejs, React, Nextjs, Styled Components.
+
 [Palpitebox](https://palpitebox.williamtome.dev/) - [Repo](https://github.com/williamtome/palpitebox)
-* Stack: React, Node, NextJs, TailwindCss and Google Sheets. 
+* Stack: React, Node, NextJs, TailwindCss, Yup and Google Sheets. 
 
 [CRUD Contacts](https://contatos.williamtome.dev/) - [Repo](https://github.com/williamtome/crud-react-next-and-faunaDB)
 * Stack: React, Node, NextJs, TailwindCss and Fauna DB (Database as a Service). 
