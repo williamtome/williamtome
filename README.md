@@ -19,6 +19,9 @@
 
 ### Projects
 
+Recipes API - [Repo](https://github.com/williamtome/recipes-api-dmtc)
+* Stack: PHP, Laravel, HTML, CSS, Bootstrap, jQuery.
+
 [AluraQuiz](https://quiz.williamtome.dev/) - [Repo](https://github.com/williamtome/alura-quiz-imersao-react)
 * Stack: Nodejs, React, Nextjs, Styled Components.
 
