@@ -11,7 +11,8 @@
 
 ### ✔️ I'm currently learning
 - JavaScript
-- ReactJS
+- TDD with PHP
+- Design Patterns with PHP
 
 ### 👩‍💻 I'm working on
 - Building projects.
