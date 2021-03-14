@@ -11,6 +11,7 @@
 
 ### ✔️ I'm currently learning
 - JavaScript
+- Nodejs
 - ReactJs
 - NextJs
 
