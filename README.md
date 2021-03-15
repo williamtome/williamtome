@@ -24,6 +24,9 @@
 Recipes API - [Repo](https://github.com/williamtome/recipes-api-dmtc)
 * Stack: PHP, Laravel, Laravel Sail (Docker), HTML, CSS, Bootstrap, jQuery.
 
+Machine Budgets API - [Repo](https://github.com/williamtome/machine-budgets-api)
+* Stack: PHP, Laravel and Laravel Sail (Docker).
+
 [AluraQuiz](https://quiz.williamtome.dev/) - [Repo](https://github.com/williamtome/alura-quiz-imersao-react)
 * Stack: Nodejs, React, Nextjs, Styled Components.
 
