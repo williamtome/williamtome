@@ -16,7 +16,7 @@
 - NextJs
 
 ### 👩‍💻 I'm working on
-- Building projects.
+- Building new projects.
 
 
 ### Projects
