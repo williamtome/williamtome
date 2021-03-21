@@ -21,6 +21,9 @@
 
 ### Projects
 
+[Calculator](https://calculadora.williamtome.dev) - [Repo](https://github.com/williamtome/calculadora)
+- Stack: HTML, CSS, JavaScript.
+
 Recipes API - [Repo](https://github.com/williamtome/recipes-api-dmtc)
 * Stack: PHP, Laravel, Laravel Sail (Docker), HTML, CSS, Bootstrap, jQuery.
 
