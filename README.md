@@ -21,6 +21,9 @@
 
 ### Projects
 
+Curriculum - [Repo](https://github.com/williamtome/resume)
+* Stack: React, Node, NextJs, TailwindCss.
+
 [Calculator](https://calculadora.williamtome.dev) - [Repo](https://github.com/williamtome/calculadora)
 - Stack: HTML, CSS, JavaScript.
 
@@ -34,7 +37,7 @@ Machine Budgets API - [Repo](https://github.com/williamtome/machine-budgets-api)
 * Stack: Nodejs, React, Nextjs, Styled Components.
 
 [Palpitebox](https://palpitebox.williamtome.dev/) - [Repo](https://github.com/williamtome/palpitebox)
-* Stack: React, Node, NextJs, TailwindCss, Yup and Google Sheets. 
+* Stack: React, Node, NextJs, TailwindCss, Formik with Yup and Google Sheets. 
 
 [CRUD Contacts](https://contatos.williamtome.dev/) - [Repo](https://github.com/williamtome/crud-react-next-and-faunaDB)
 * Stack: React, Node, NextJs, TailwindCss and Fauna DB (Database as a Service). 
