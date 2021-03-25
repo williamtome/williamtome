@@ -22,7 +22,7 @@
 ### Projects
 
 Curriculum - [Repo](https://github.com/williamtome/resume)
-* Stack: React, Node, NextJs, TailwindCss.
+* Stack: React, Node, NextJs, TailwindCss and GitHub API.
 
 [Calculator](https://calculadora.williamtome.dev) - [Repo](https://github.com/williamtome/calculadora)
 - Stack: HTML, CSS, JavaScript.
