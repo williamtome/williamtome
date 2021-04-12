@@ -2,7 +2,6 @@
 <h3 align="center">A fullstack developer loved for tech languages and frameworks</h3>
 
 - 🔭 I’m currently working on **GroupIT - a startup that developed projects to many types of business.**
-- 🌱 I’m currently learning **Laravel, Javascript, React and Next framework.**
 - 📫 How to reach me **william.tomenh@gmail.com**
 
 ### Tech Skills
