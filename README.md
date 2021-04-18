@@ -20,6 +20,9 @@
 
 ### Projects
 
+Databases - [Repo](https://github.com/williamtome/fsm-banco-de-dados)
+* Stack: Nodejs, Sqlite, Mysql2, Firebase.
+
 Curriculo - [Repo](https://github.com/williamtome/resume)
 * Stack: React, Node, NextJs, TailwindCss and GitHub API.
 
