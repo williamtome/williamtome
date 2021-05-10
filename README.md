@@ -8,11 +8,6 @@
 
 * PHP / Laravel / Javascript / MySQL / HTML / CSS / Bootstrap / Git / Node.js / Reactjs / Vuejs / Nextjs / TailwindCSS
 
-### ✔️ I'm currently learning
-- JavaScript
-- Nodejs
-- ReactJs
-- NextJs
 
 ### 👩‍💻 I'm working on
 - Building new projects.
