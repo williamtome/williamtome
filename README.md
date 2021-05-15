@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm William Tomé</h1>
-<h3 align="center">A fullstack developer loved for tech languages and frameworks</h3>
+<h3 align="center">A back-end developer loved for solve problems.</h3>
 
-- 🔭 I’m currently working on **GroupIT - a startup that developed projects to many types of business.**
+- 🔭 I’m currently working on **Yampi - a company that manager payment gateway serrvices of the e-commerces.**
 - 📫 How to reach me **william.tomenh@gmail.com**
 
 ### Tech Skills
@@ -10,7 +10,7 @@
 
 
 ### 👩‍💻 I'm working on
-- Building new projects.
+- Participating in a carrer mentoring with Marco Castro at [Desenvolvendo Me](https://www.youtube.com/channel/UCp98bXHSc01w8fBfkkgHB1Q).
 
 
 ### Projects
