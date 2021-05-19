@@ -6,7 +6,7 @@
 
 ### Tech Skills
 
-* PHP / Laravel / Javascript / MySQL / HTML / CSS / Bootstrap / Git / Node.js / Reactjs / Vuejs / Nextjs / TailwindCSS
+* PHP / Laravel / Javascript / MySQL / HTML / CSS / Bootstrap / Git / Vuejs / Ruby / Rails
 
 
 ### 👩‍💻 I'm working on
@@ -14,6 +14,11 @@
 
 
 ### Projects
+
+Gem Ruby = [Repo](https://github.com/williamtome/gem_ruby)
+
+Linguagem Ruby - [Repo](https://github.com/williamtome/linguagem_2021_ruby)
+* Stack: Ruby
 
 Databases - [Repo](https://github.com/williamtome/fsm-bancos-de-dados)
 * Stack: Nodejs, Sqlite3, Mysql2/promise, Firebase-admin.
