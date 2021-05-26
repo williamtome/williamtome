@@ -15,7 +15,7 @@
 
 ### Projects
 
-Gem Ruby = [Repo](https://github.com/williamtome/gem_ruby)
+Gem Ruby - [Repo](https://github.com/williamtome/gem_ruby)
 
 Linguagem Ruby - [Repo](https://github.com/williamtome/linguagem_2021_ruby)
 * Stack: Ruby
