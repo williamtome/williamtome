@@ -15,6 +15,13 @@
 
 ### Projects
 
+
+Preço Certo - [Repo](https://github.com/desenvolvendo-me/preco_certo)
+Stack - Ruby
+
+Tem Açaí - [Repo](https://github.com/desenvolvendo-me/tem_acai)
+Stack - Ruby
+
 Gem Ruby - [Repo](https://github.com/williamtome/gem_ruby)
 
 Linguagem Ruby - [Repo](https://github.com/williamtome/linguagem_2021_ruby)
