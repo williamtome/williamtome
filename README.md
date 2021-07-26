@@ -4,14 +4,15 @@
 - 🔭 I’m currently working on **Yampi - a company that manager payment gateway serrvices of the e-commerces.**
 - 📫 How to reach me **william.tomenh@gmail.com**
 
-### Tech Skills
+### High Tech Skills
 
-* PHP / Laravel / Javascript / MySQL / HTML / CSS / Bootstrap / Git / Vuejs / Ruby / Rails
+* PHP / Laravel / MySQL
 
+### Low Tech Skills
+* HTML / CSS / JavaScript / Bootstrap / Git / Vuejs
 
-### 👩‍💻 I'm working on
-- Participating in a carrer mentoring with Marco Castro at [Desenvolvendo Me](https://www.youtube.com/channel/UCp98bXHSc01w8fBfkkgHB1Q).
-
+### Why i'm learn at moment?
+* PHP OO and Design Patterns.
 
 ### Projects
 
