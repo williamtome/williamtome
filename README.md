@@ -1,48 +1,73 @@
-<h2>Olá 👋, eu sou <a href="https://github.com/williamtome">William W. Tomé  🇧🇷 </a></h2>
 
-<p>Desenvolvedor de Software e Graduado em Análise e Desenvolvimento de Sistemas. </p><p> Adoro resolver problemas e amante de tecnologia desde criança. Iniciei minha vida acadêmica fazendo curso técnco em informática e logo me apaixonei pelo desenvolvimento de software.</p>
-<p>Atualmente trabalho na Yampi como Desenvolvedor Back-end, usando a linguagem de programação PHP e com o framework Laravel.
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/williamtome/cd0adbf2dfa67db30210ecf6a710125a/raw/58eb33beb9d7198397b2423ff503b200f66d036f/githubcard.svg"/>
 
-<a href="https://www.linkedin.com/in/williamtome/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-@williamtome-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/williamtome/" alt="LinkedIn Badge"></a>
-[![GitHub Willia Weirich Tomé](https://img.shields.io/github/followers/williamtome?label=follow&style=social)](https://github.com/williamtome)
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm William Weirch Tomé</h1>
 
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=williamtome&color=yellow" alt="Profile views" /> </p>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador Thiagoluizstr">
+- 🔥 Junior Web Developer passionate by technology and solve the problems with programming
 
-<h2>⚡️ Alguns fatos rápidos</h2>
-<ul>
-  <li>👨‍💻 Meu perfil profissional está no <a href="https://www.linkedin.com/in/williamtome/">Linkedin</a></li>	
-  <li>💬 Eterno estudante! Estudo constantemente para não ficar desatualizado no mercado de Tecnologia.</li>
-  <li>Estou estudando, no momento, PHP OO e Design Patterns.</li>
-  <li>🗺️ Curiosidade: Gosto de tocar violão nas horas vagas!</li>	
-</ul>
-<br>
+- 🔭 I’m currently working at [Yampi](https://yampi.com.br)
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=williamtome&hide=issues&theme=light&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&line_height=20.5)
+- 👨‍💻 All of my projects are available at [williamtome.dev](https://williamtome.dev)
 
-<h2>🔧 Linguagens e ferramentas</h2>
+- ▶️ I have a degree in systems analysis and development.
+
+<br><br>
+
+## 🛠 &nbsp;Tech Stack
+
+![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;
+![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![PHPStorm](https://img.shields.io/badge/-PHP%20Storm-05122A?style=flat&logo=phpstorm&logoColor=765AF8)&nbsp;
+![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)&nbsp;
+![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
+
+<br><br>
+
+## ⚙️ &nbsp;GitHub Analytics
+
 <p align="left">
-  <a href="https://laravel.com/" target="_blank">
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> 
-  </a>
-  <a href="https://www.php.net" target="_blank">
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-  	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" />
-	
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=williamtome&show_icons=true&theme=vision-friendly-dark" alt="williamtome's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamtome&layout=compact&theme=vision-friendly-dark" alt="williamtome's most languages"/>
 </p>
 
-### Projects
+<br><br>
+
+## 👨🏽‍🦲 &nbsp;Social Links
+
+<p align="left" style="background:yellow">
+<a href="https://linkedin.com/in/williamtome" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-williamtome-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+</p>
+
+<br><br>
+<!--
+**maykbrito/maykbrito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here are some ideas to get you started:
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
+## 🔥 Projects
 
 Preço Certo - [Repo](https://github.com/desenvolvendo-me/preco_certo)
 * Stack - Ruby
