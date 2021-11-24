@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=williamtome&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Junior Web Developer passionate by technology and solve the problems with programming
+- 🔥 Web Developer passionate by technology and solve the problems with programming
 
 - 🔭 I’m currently working at [Yampi](https://yampi.com.br)
 
