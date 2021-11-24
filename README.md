@@ -80,10 +80,10 @@ Gem Ruby - [Repo](https://github.com/williamtome/gem_ruby)
 Linguagem Ruby - [Repo](https://github.com/williamtome/linguagem_2021_ruby)
 
 Databases - [Repo](https://github.com/williamtome/fsm-bancos-de-dados)
-* Stack: Nodejs + Sqlite3 + MySQL + Firebase.
+* Stack: Node.js + Sqlite3 + MySQL + Firebase.
 
 Curriculo - [Repo](https://github.com/williamtome/resume)
-* Stack: React + Node.js + Next.js + TailwindCss + GitHub API.
+* Stack: React.js + Node.js + Next.js + TailwindCss + GitHub API.
 
 [Calculator](https://calculadora.williamtome.dev) - [Repo](https://github.com/williamtome/calculadora)
 - Stack: HTML + CSS + JavaScript.
