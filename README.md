@@ -69,6 +69,9 @@ Here are some ideas to get you started:
 
 ## 🔥 Projects
 
+Agenda Lá - [Repo](https://github.com/williamtome/agenda-la)
+* Stack - React.js + Node.js + Next.js + TailwindCss
+
 Preço Certo - [Repo](https://github.com/desenvolvendo-me/preco_certo)
 * Stack - Ruby + Ruby on Rails
 
