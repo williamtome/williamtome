@@ -41,7 +41,7 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="420em" src="https://github-readme-stats.vercel.app/api?username=williamtome&show_icons=true&theme=vision-friendly-dark" alt="williamtome's stats"/>
+<img width="430em" src="https://github-readme-stats.vercel.app/api?username=williamtome&show_icons=true&theme=vision-friendly-dark" alt="williamtome's stats"/>
 <img width="360em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamtome&layout=compact&theme=vision-friendly-dark" alt="williamtome's most languages"/>
 </p>
 
