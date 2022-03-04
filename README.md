@@ -53,9 +53,13 @@
 ## 👨🏽‍🦲 &nbsp;Social Links
 
 <p align="left" style="background:yellow">
-<a href="https://linkedin.com/in/williamtome" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-williamtome-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
+  <a href = "mailto:william.tomenh@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" target="_blank">
+  </a>
+  
+  <a href="https://linkedin.com/in/williamtome" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" target="_blank">
+  </a>
 </p>
 
 <br><br>
