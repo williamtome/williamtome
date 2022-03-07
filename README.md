@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=williamtome&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Web Developer passionate by technology and solve the problems with programming
+- 🔥 Web Developer passionate by technology and solve the problems with programming. I'm christian and love my Lord! In my happy hours i like watch a movies and series, play guitar and play with my dogs!
 
 - 🔭 I’m currently working at [Yampi](https://yampi.com.br)
 
@@ -63,60 +63,3 @@
 </p>
 
 <br><br>
-<!--
-**maykbrito/maykbrito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-## 🔥 Projects
-
-Agenda Lá - [Repo](https://github.com/williamtome/agenda-la)
-* Stack - React.js + Node.js + Next.js + TailwindCss
-
-Preço Certo - [Repo](https://github.com/desenvolvendo-me/preco_certo)
-* Stack - Ruby + Ruby on Rails
-
-Tem Açaí - [Repo](https://github.com/desenvolvendo-me/tem_acai)
-* Stack - Ruby + Ruby on Rails
-
-Gem Ruby - [Repo](https://github.com/williamtome/gem_ruby)
-
-Linguagem Ruby - [Repo](https://github.com/williamtome/linguagem_2021_ruby)
-
-Databases - [Repo](https://github.com/williamtome/fsm-bancos-de-dados)
-* Stack: Node.js + Sqlite3 + MySQL + Firebase.
-
-Curriculo - [Repo](https://github.com/williamtome/resume)
-* Stack: React.js + Node.js + Next.js + TailwindCss + GitHub API.
-
-[Calculator](https://calculadora.williamtome.dev) - [Repo](https://github.com/williamtome/calculadora)
-- Stack: HTML + CSS + JavaScript.
-
-Recipes API - [Repo](https://github.com/williamtome/recipes-api-dmtc)
-* Stack: PHP + Laravel + Laravel Sail (Docker) + HTML + CSS + Bootstrap + jQuery.
-
-Machine Budgets API - [Repo](https://github.com/williamtome/machine-budgets-api)
-* Stack: PHP + Laravel + Laravel Sail (Docker).
-
-[AluraQuiz](https://quiz.williamtome.dev/) - [Repo](https://github.com/williamtome/alura-quiz-imersao-react)
-* Stack: Node.js + React.js + Next.js + Styled Components.
-
-[Palpitebox](https://palpitebox.williamtome.dev/) - [Repo](https://github.com/williamtome/palpitebox)
-* Stack: React.js + Node.js + Next.js + TailwindCss + Formik + Yup + Google Sheets. 
-
-[CRUD Contacts](https://contatos.williamtome.dev/) - [Repo](https://github.com/williamtome/crud-react-next-and-faunaDB)
-* Stack: React.js + Node.js + Next.js + TailwindCss + FaunaDB (Database as a Service). 
-
-[ConvertMyMoney](https://convertmymoney.williamtome.dev/) - [Repo](https://github.com/williamtome/convertmymoney)
-* Stack: Node.js + Jest + HTML + EJS + Flexbox CSS + integration with Banco Central do Brasil API.
-
-[Conversor de Unidades](https://conversor-de-unidades-git-master.williamtome.vercel.app/) - [Repo](https://github.com/williamtome/conversor-de-unidades)
-* Stack: HTML + Bootstrap + jQuery.
