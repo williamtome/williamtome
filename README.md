@@ -1,7 +1,7 @@
 
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/williamtome/cd0adbf2dfa67db30210ecf6a710125a/raw/58eb33beb9d7198397b2423ff503b200f66d036f/githubcard.svg"/>
 
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="10px">, I'm William Weirch Tomé</h1>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" height="30px">, I'm William Weirch Tomé</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=williamtome&color=yellow" alt="Profile views" /> </p>
 
