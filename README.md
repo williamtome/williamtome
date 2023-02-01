@@ -39,7 +39,53 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 
 
-<br><br>
+<br>
+
+<h3>Open Source Projects</h3>
+<table>
+    <thead align="center">
+        <tr border: none;>
+            <td><b>Id</b></td>
+	    <td><b>Projects</b></td>
+	    <td><b>Skills</b></td>
+            <td><b>Stars</b></td>
+            <td><b>Forks</b></td>
+            <td><b>Issues</b></td>
+            <td><b>Pull requests</b></td>
+        </tr>
+    </thead>
+    <tbody>
+	<tr>
+		<td>1</td>
+            	<td><a href="https://github.com/williamtome/finance-api-v2"><b>Finance API</b></a></td>
+		<td>Business / Developer</td>
+            	<td><img alt="Stars" src="https://img.shields.io/github/stars/williamtome/finance-api-v2?style=flat-square&labelColor=343b41" /></td>
+            	<td><img alt="Forks" src="https://img.shields.io/github/forks/williamtome/finance-api-v2?style=flat-square&labelColor=343b41" /></td>
+            	<td><img alt="Issues" src="https://img.shields.io/github/issues/williamtome/finance-api-v2?style=flat-square&labelColor=343b41" /></td>
+            	<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/williamtome/finance-api-v2?style=flat-square&labelColor=343b41" /></td>
+        </tr>
+        <tr>
+		<td>2</td>
+		<td><a href="https://github.com/williamtome/orcamentos"><b>Orçamentos</b></a></td>
+	 	<td>Business / Developer</td>
+	    	<td><img alt="Stars" src="https://img.shields.io/github/stars/williamtome/orcamentos?style=flat-square&labelColor=343b41" /></td>
+            	<td><img alt="Forks" src="https://img.shields.io/github/forks/williamtome/orcamentos?style=flat-square&labelColor=343b41" /></td>
+            	<td><img alt="Issues" src="https://img.shields.io/github/issues/williamtome/orcamentos?style=flat-square&labelColor=343b41" /></td>
+            	<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/williamtome/orcamentos?style=flat-square&labelColor=343b41" /></td>
+        </tr>
+        <tr>
+		<td>3</td>
+            	<td><a href="https://github.com/williamtome/palpitebox"><b>Palpitebox</b></a></td>
+		<td>Business / Developer</td>
+            	<td><img alt="Stars" src="https://img.shields.io/github/stars/williamtome/palpitebox?style=flat-square&labelColor=343b41" /></td>
+            	<td><img alt="Forks" src="https://img.shields.io/github/forks/williamtome/palpitebox?style=flat-square&labelColor=343b41" /></td>
+            	<td><img alt="Issues" src="https://img.shields.io/github/issues/williamtome/palpitebox?style=flat-square&labelColor=343b41" /></td>
+            	<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/williamtome/palpitebox?style=flat-square&labelColor=343b41" /></td>
+        </tr>
+    </tbody>
+</table>
+
+<br>
 
 ## ⚙️ &nbsp;GitHub Analytics
 
@@ -48,7 +94,7 @@
 <img width="360em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamtome&layout=compact&theme=vision-friendly-dark" alt="williamtome's most languages"/>
 </p>
 
-<br><br>
+<br>
 
 ## 👨🏽‍🦲 &nbsp;Social Links
 
@@ -61,5 +107,3 @@
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" target="_blank">
   </a>
 </p>
-
-<br><br>
